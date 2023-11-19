@@ -4,7 +4,7 @@ Business Requirement:
 * The objective was to understand how data analysis is done using an Excel spreadsheet, dataset was downloaded from Kaggle.
 * To create an interactive dashboard using Excel spreadsheet.
 * To Improve sales reports by creating visual reports that the sales manager could use.
-* To design a dashboard with insights on bike sales:
+To design a dashboard with insights on bike sales:
 1) We need to analyse total revenue, total units, Profit, and total no of customers. 
 2) Top countries with the highest profit.
 3) Age group distribution of gender by revenue.
